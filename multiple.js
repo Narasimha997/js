@@ -7,3 +7,6 @@ let f;
 console.log(a*b);
 console.log(typeof b);
 console.log(a*c);
+console.log(c+"  "+d)
+console.log(e)
+console.log(f)
