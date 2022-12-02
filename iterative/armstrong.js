@@ -16,7 +16,7 @@ if(b==d){
 else{
     console.log("Its Not An Armstrong");
 }*/
-let num=1632
+let num=153
 let sum=0
 let rem=0
 let temp=0
@@ -27,8 +27,8 @@ while(temp>0){
     sum=sum+(rem*rem*rem)
 }
 if(sum==num){
-    console.log("armstrong")
+    console.log("armstrong");
 }
 else{
-    console.log("not")
+    console.log("not an armstrong");
 }
