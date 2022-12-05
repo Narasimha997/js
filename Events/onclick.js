@@ -1,4 +1,4 @@
 function msg(){
-    alert("Simon Railey")
+    alert("Simon 'Ghost' Riley")
     
 }
