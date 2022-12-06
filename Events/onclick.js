@@ -1,4 +1,4 @@
 function msg(){
-    alert("Simon 'Ghost' Riley")
+    alert("Choices have consequences  -Simon 'Ghost' Riley")
     
 }
