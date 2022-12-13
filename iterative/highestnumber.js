@@ -1,6 +1,6 @@
 let a=10;
 var b=111;
-var c=7;
+var c=7000 ;
 if(a>=b && a>=c){
     console.log(a);
 }

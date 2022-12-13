@@ -16,10 +16,10 @@ if(b==d){
 else{
     console.log("Its Not An Armstrong");
 }*/
-let num=153
+let num=154
 let sum=0
 let rem=0
-let temp=0
+let temp=0 
 temp=num
 while(temp>0){
     rem=temp%10
