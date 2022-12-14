@@ -12,7 +12,7 @@
  let a1=new Account(001,"r",9000)
  console.log(a1)
  */
-/* class person{
+ class person{
     firstName;
     lastName;
     age;
@@ -28,4 +28,3 @@ let a1=new person("n","k",23,"black")
 console.log(a1)
 let a2=new person("o","p",21,"brown")
 console.log(a2)
- */
