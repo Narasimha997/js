@@ -33,7 +33,7 @@ function display(){
                     <td>${emp[i].ID}</td>
                     <td>${emp[i].Name}</td> 
                     <td>${emp[i].Email}</td>
-                    <td>${emp[i].Email.substr(emp[i].Email.indexOf('@')+1).toUpperCase()}</td>
+                    <td>${emp[i].Email.substr(emp[i].Email.indexOf('@')+1).toUpperCase( )}</td>
 
                       </tr>`
                       i++;

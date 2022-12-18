@@ -1,5 +1,5 @@
 class a{
-    constructor(){
+    constru(){
         console.log("Hello");
     }
 }

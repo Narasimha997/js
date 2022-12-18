@@ -5,9 +5,8 @@ class a{
 }
 class b extends a{
     constructor(){
-        super()
+        super()                                  // uUsing super() keyword we can access the parent members when we are using constructor in both classes  
         console.log("hi")
     }
 }
-let b1=new b
-console.log(b1)
+new b
