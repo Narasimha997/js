@@ -1,6 +1,6 @@
 class account1{
     min_BAL=1000;
-    constructor(id1,name1,amount1){
+    constructor(id1,name1,amount1){                         //"constructor" keyword is used to initialize the object values
       this.acc_id=id1;
       this.acc_name=name1;
     this.acc_bal=amount1;
