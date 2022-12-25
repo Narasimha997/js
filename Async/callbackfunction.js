@@ -6,7 +6,7 @@ let create=(emp)=>{
     console.log(list)
  }, 4000);
 }
-let getemployee=()=>{
+let get_employee=()=>{
     setTimeout(() => {
          let rows=""
          for(employee of list){
@@ -20,4 +20,4 @@ let getemployee=()=>{
     }, 4000);
 }
 create({id:003,name:"name",sal:78000});
-getemployee;
+get_employee;
